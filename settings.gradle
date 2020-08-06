@@ -1,0 +1,3 @@
+include ':Log'
+include ':app'
+rootProject.name = "LibryExample"
